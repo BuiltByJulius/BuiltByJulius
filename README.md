@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**BuiltByJulius/BuiltByJulius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="banner.png" width="100%" alt="BuiltByJulius banner">
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">
+  Software Developer | Database Systems | IT Infrastructure
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Building practical software solutions through code,
+  database systems and technology.
+</p>
+
+---
+
+### About Me
+
+I'm a software developer interested in building web applications, database-driven systems and practical technology solutions.
+
+### Technical Interests
+
+- Software Development
+- Web Application Development
+- Database Management
+- IT Infrastructure
+
+### Technologies
+
+C# · ASP.NET · PHP · JavaScript · Python · MySQL · PostgreSQL
+
+### Featured Projects
+
+More projects coming soon.
+
+---
+
+<p align="center">
+  <b>BuiltByJulius</b> · Code. Build. Innovate.
+</p>
